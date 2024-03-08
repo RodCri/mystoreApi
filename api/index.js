@@ -20,3 +20,5 @@ const options = {
 app.use(cors(options));
 
 app.listen(port, () =>{})
+
+module.exports = app
