@@ -26,6 +26,7 @@ const CategorySchema = {
   },
 }
 
+
 class Category extends Model {
 
   static associate(models) {
